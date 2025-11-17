@@ -8,7 +8,7 @@ EduManage is a comprehensive and modern ERP solution designed to streamline and 
 
 ### 🔹 Student Management
 - Complete student records
-- Enrollment & profile management  
+- Enrollment & profile management    
 - Academic & class data tracking
 
 ### 🔹 Faculty Management
