@@ -1,231 +1,158 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>EduManage - ERP Based Integrated Student Management System</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 1000px;
-      margin: auto;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 4px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 12px;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
+# 🎓 EduManage – ERP-Based Integrated Student Management System
 
-<h1>📘 EduManage – ERP-Based Integrated Student Management System</h1>
+EduManage is a comprehensive and modern ERP solution designed to streamline and automate student and institution management workflows. It enhances efficiency, ensures data accuracy, and improves communication across all departments of an educational institution.
 
-<p>
-  EduManage is a comprehensive, modern, and efficient student management system designed to streamline operations across educational institutions.
-  It centralizes student, faculty, administrative, and academic workflows—making management simpler, faster, and more transparent.
-</p>
+---
 
-<hr>
+## 🚀 Features
 
-<h2>🚀 Features</h2>
+### 🔹 Student Management
+- Complete student records
+- Enrollment & profile management
+- Academic & class data tracking
 
-<h3>🔹 Student Management</h3>
-<ul>
-  <li>Complete student records</li>
-  <li>Enrollment and profile management</li>
-  <li>Class & academic data tracking</li>
-</ul>
+### 🔹 Faculty Management
+- Faculty profiles
+- Scheduling & workload
+- Assignments management
 
-<h3>🔹 Faculty Management</h3>
-<ul>
-  <li>Manage faculty profiles</li>
-  <li>Scheduling & assignments</li>
-  <li>Academic workload overview</li>
-</ul>
+### 🔹 Course Management
+- Course & subject organization
+- Program and curriculum management
 
-<h3>🔹 Course Management</h3>
-<ul>
-  <li>Organize courses and subjects</li>
-  <li>Curriculum and academic program planning</li>
-</ul>
+### 🔹 Attendance & Marks
+- Attendance tracking
+- Marks/grades management
 
-<h3>🔹 Attendance & Marks</h3>
-<ul>
-  <li>Track attendance</li>
-  <li>Manage examinations & grades easily</li>
-</ul>
+### 🔹 Library System
+- Digital book inventory
+- Issue/return tracking
+- Overdue monitoring
 
-<h3>🔹 Library System</h3>
-<ul>
-  <li>Digital library with book tracking</li>
-  <li>Issuance & return logs</li>
-  <li>Inventory management</li>
-</ul>
+### 🔹 Fee Management
+- Fee payment tracking
+- Automated fee history
 
-<h3>🔹 Fee Management</h3>
-<ul>
-  <li>Payment collection tracking</li>
-  <li>Automated fee history</li>
-</ul>
+### 🔹 Reports & Analytics
+- Comprehensive data reports
+- Insights for decision-making
 
-<h3>🔹 Reports & Analytics</h3>
-<ul>
-  <li>Dynamic reports</li>
-  <li>Data-driven insights for admins</li>
-</ul>
+### 🔹 Security & Access
+- Role-based access control
+- Secure data handling
 
-<h3>🔹 Security & Access</h3>
-<ul>
-  <li>Role-based access control</li>
-  <li>Secure data handling</li>
-</ul>
+---
 
-<hr>
+## 👥 User Roles & Capabilities
 
-<h2>👥 User Roles</h2>
+### 🛡️ Administrator
+- Full system control
+- User access management
+- Configuration & audit logs
 
-<h3>🛡️ Administrator</h3>
-<ul>
-  <li>Full system setup & access management</li>
-  <li>Audit logs & compliance reporting</li>
-</ul>
+### 🧑‍💼 Sub-Admin
+- Department management
+- Course structure setup
+- Section-wise performance reports
 
-<h3>🧑‍💼 Sub-Admin</h3>
-<ul>
-  <li>Department-level management</li>
-  <li>Course structure setup</li>
-  <li>Sectional performance reporting</li>
-</ul>
+### 👨‍🏫 Faculty
+- Daily attendance
+- Marks & grade entry
+- Communication with students/parents
 
-<h3>👨‍🏫 Faculty</h3>
-<ul>
-  <li>Manage marks & attendance</li>
-  <li>Communicate with students/parents</li>
-</ul>
+### 🎓 Student
+- View grades
+- Track attendance
+- Access schedule & resources
 
-<h3>🎓 Student</h3>
-<ul>
-  <li>View grades, timetable, attendance, and resources</li>
-</ul>
+### 📚 Librarian
+- Manage book inventory
+- Issue/return logs
+- Track overdue books
 
-<h3>📚 Librarian</h3>
-<ul>
-  <li>Manage book inventory</li>
-  <li>Issue/return tracking</li>
-</ul>
+### 💰 Accountant
+- Manage fees & invoices
+- Handle online payments
+- Generate financial reports
 
-<h3>💰 Accountant</h3>
-<ul>
-  <li>Manage fees, invoices, and financial reports</li>
-</ul>
+---
 
-<hr>
+## 🏛️ About EduManage
 
-<h2>🏛️ About EduManage</h2>
+EduManage is designed to simplify:
+- ⚡ Administrative operations
+- 🔄 Academic workflows
+- 📊 Analytics & reporting
+- 🔐 Secure access management
 
-<p>
-  EduManage is built using modern web technologies to provide:
-</p>
-<ul>
-  <li>⚡ High performance</li>
-  <li>🔐 Secure role-based access</li>
-  <li>🔄 Smooth communication</li>
-  <li>📊 Accurate tracking for academic & administrative workflows</li>
-</ul>
+Built with modern technologies focusing on performance, scalability, and usability.
 
-<hr>
+---
 
-<h2>🖥️ Tech Stack</h2>
+## 🖥️ Tech Stack
 
-<table border="1" cellpadding="10">
-  <tr>
-    <th>Layer</th>
-    <th>Technology</th>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>HTML, CSS, JavaScript</td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>PHP / Node.js</td>
-  </tr>
-  <tr>
-    <td>Database</td>
-    <td>MySQL / MongoDB</td>
-  </tr>
-  <tr>
-    <td>Version Control</td>
-    <td>Git & GitHub</td>
-  </tr>
-</table>
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | PHP / Node.js |
+| **Database** | MySQL / MongoDB |
+| **Version Control** | Git & GitHub |
 
-<hr>
+---
 
-<h2>📂 Project Structure (Example)</h2>
+## 📂 Project Structure (Example)
 
-<pre><code>
+```
 EduManage/
 ├── index.html
 ├── styles/
-│   ├── main.css
+│   └── main.css
 ├── scripts/
-│   ├── app.js
+│   └── app.js
 ├── images/
-│   ├── assets...
 ├── pages/
 │   ├── admin.html
 │   ├── faculty.html
 │   ├── student.html
 │   └── ...
-├── README.html
+├── README.md
 └── LICENSE
-</code></pre>
+```
 
-<hr>
+---
 
-<h2>▶️ Getting Started</h2>
+## ▶️ Getting Started
 
-<h3>Clone the Repository</h3>
-<pre><code>git clone https://github.com/&lt;your-username&gt;/EduManage-ERP_based_integrated_student_management_system.git</code></pre>
+### Clone the repository
+```bash
+git clone https://github.com/yourusername/EduManage-ERP_based_integrated_student_management_system.git
+```
 
-<h3>Run Locally</h3>
-<p>Simply open <code>index.html</code> in any modern browser or run using a local server.</p>
+### Run Locally
+Open `index.html` in any browser or use a local server like Live Server, XAMPP, WAMP, etc.
 
-<hr>
+---
 
-<h2>📸 Screenshots</h2>
-<p>Add your homepage screenshot here:</p>
+## 📸 Screenshots
 
-<pre><code>/screenshots/homepage.png</code></pre>
+```
+/screenshots/homepage.png
+```
 
-<hr>
+---
 
-<h2>🧑‍💻 Developer</h2>
-<p>
-  <strong>Madhur Bhandarkar</strong><br>
-  📧 bhadarkarmadhur02@gmail.com <br>
-  📍 Dhule, India
-</p>
+## 🧑‍💻 Developer
 
-<hr>
+**Madhur Bhandarkar**
 
-<h2>📜 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
+📧 bhadarkarmadhur02@gmail.com
 
-</body>
-</html>
+📍 Dhule, India
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
