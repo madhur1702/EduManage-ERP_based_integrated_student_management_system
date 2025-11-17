@@ -100,27 +100,6 @@ Built with modern technologies focusing on performance, scalability, and usabili
 
 ---
 
-## 📂 Project Structure (Example)
-
-```
-EduManage/
-├── index.html
-├── styles/
-│   └── main.css
-├── scripts/
-│   └── app.js
-├── images/
-├── pages/
-│   ├── admin.html
-│   ├── faculty.html
-│   ├── student.html
-│   └── ...
-├── README.md
-└── LICENSE
-```
-
----
-
 ## ▶️ Getting Started
 
 ### Clone the repository
