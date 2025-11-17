@@ -1,6 +1,6 @@
 # 🎓 EduManage – ERP-Based Integrated Student Management System
 
-EduManage is a comprehensive and modern ERP solution designed to streamline and automate student and institution management workflows. It enhances efficiency, ensures data accuracy, and improves communication across all departments of an educational institution.
+EduManage is a comprehensive and modern ERP solution designed to streamline and automate student and institution management workflows. It enhances efficiency, ensures data accuracy and improves communication across all departments of an educational institution.
 
 ---
 
@@ -133,26 +133,13 @@ Open `index.html` in any browser or use a local server like Live Server, XAMPP, 
 
 ---
 
-## 📸 Screenshots
-
-```
-/screenshots/homepage.png
-```
-
----
-
 ## 🧑‍💻 Developer
 
 **Madhur Bhandarkar**
 
-📧 bhadarkarmadhur02@gmail.com
+📧 bhandarkarmadhur02@gmail.com
 
 📍 Dhule, India
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
